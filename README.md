@@ -1,6 +1,7 @@
-# Analytics Programming
+# Analytics Programming DAV 5400
 
-Course with projects to learn and create rich data analytics and visualization workflows.
+My Data Analytics and Visualization Master Degree course with projects to create rich data analytics and visualization workflows with Python.
+[Click here to see project file in Jupyter Notebook format](https://github.com/Johnnydaszhu/DAV-5400/blob/master/College%20Admission%20Analysis%20Python%20Project.ipynb)
 
 
 
@@ -23,6 +24,7 @@ and presentation of code-based solutions.
 - [Bokeh](https://bokeh.pydata.org) An interactive visualization library that targets modern web browsers for presentation
 - [Plotly](https://plot.ly) An interactive, open-source, and browser-based graphing library 
 - [Scikit-learn](http://scikit-learn.github.io/stable) A free software machine learning library for the Python programming language.
+- [Request](http://scikit-learn.github.io/stable) A free software machine learning library for the Python programming language.
 
 
 ### Final Project: College Admission Analysis 
@@ -34,19 +36,14 @@ The Dataset were collected under two method:
 
 ![](https://github.com/Johnnydaszhu/DAV-5400/blob/master/2016-17%20US%20Colleges%20Admission%20Rate%20by%20State%3Cbr%3E(Hover%20for%20Details).png)
 
-## Running the tests
+## Steps
 
-Explain how to run the automated tests for this system
-
-### Break down into end to end tests
-
-Explain what these tests test and why
-
-```
-Give an example
-```
-
-
+1. Modules Import
+2. Import CSV & API Datasets
+3. Exploratory Data Analysis(EDA)
+4. Linear Regression Analysis
+5. Draw Conclusion
+6. Make a Mini-Chatbot: SAT for a School?
 
 ## Built With
 
