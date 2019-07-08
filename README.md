@@ -57,13 +57,6 @@ Give an example
 
 ## Contributor
 
-* **Qinghao Xia** - *Initial work* - [PurpleBooth](https://github.com/PurpleBooth)
-* **Qihua Zhu** - *Initial work* - [PurpleBooth](https://github.com/PurpleBooth)
-
-
-## Acknowledgments
-
-* Hat tip to anyone whose code was used
-* Inspiration
-* etc
+* **Qinghao Xia**  - [Github](https://github.com/PurpleBooth)
+* **Qihua Zhu**  - [Portfolio](www.qihuazhu.com)
 
