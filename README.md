@@ -49,6 +49,6 @@ The Dataset were collected under two method:
 
 ## Contributor
 
-* **Qinghao Xia** -[Portfolio](https://github.com/qxia2)
+* **Qinghao Xia** -[GitHub](https://github.com/qxia2)
 * **Qihua Zhu**  - [Portfolio](www.qihuazhu.com)
 
