@@ -17,6 +17,7 @@ and presentation of code-based solutions.
 
 ### Python Libraries that covered
 
+- [Sympy](https://www.sympy.org/en/index.html) A Python library for symbolic mathematics
 - [Numpy](https://www.numpy.org) A fundamental package for scientific computing with Python
 - [Pandas](https://pandas.pydata.org) A fundamental package for scientific computing with Python
 - [Matplotlib](https://matplotlib.org) A Python 2D plotting library
@@ -44,12 +45,6 @@ The Dataset were collected under two method:
 4. Linear Regression Analysis
 5. Draw Conclusion
 6. Make a Mini-Chatbot: SAT for a School?
-
-## Built With
-
-* [Dropwizard](http://www.dropwizard.io/1.0.2/docs/) - The web framework used
-* [Maven](https://maven.apache.org/) - Dependency Management
-* [ROME](https://rometools.github.io/rome/) - Used to generate RSS Feeds
 
 
 ## Contributor
