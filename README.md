@@ -49,6 +49,6 @@ The Dataset were collected under two method:
 
 ## Contributor
 
-* **Qinghao Xia**  - [Github](https://github.com/PurpleBooth)
+* **Qinghao Xia** 
 * **Qihua Zhu**  - [Portfolio](www.qihuazhu.com)
 
