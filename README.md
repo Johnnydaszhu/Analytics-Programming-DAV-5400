@@ -35,6 +35,7 @@ The Dataset were collected under two method:
 - [College Scorecard Data(CSV file)](https://api.census.gov/data/2017/)
 - [States Population & Income Data(Website API)](https://api.census.gov/data/2017/)
 
+Visualization Sample:
 ![](https://github.com/Johnnydaszhu/DAV-5400/blob/master/2016-17%20US%20Colleges%20Admission%20Rate%20by%20State%3Cbr%3E(Hover%20for%20Details).png)
 
 ## Steps
